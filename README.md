@@ -1,0 +1,2 @@
+# Restaurant-management-system-python
+Restaurant management system is an application that deals with basic restaurant managements and financial records. This system helps the owners of the restaurant to save time and increase productivity in their work. At the same time, it is also beneficial and helpful for the customers since it will allow them to make orders and do their payments more easily.  
