@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="image">
+    <file>images.jpeg</file>
+    <file>xcv.PNG</file>
+    <file>chi.PNG</file>
+    <file>bbq-pizza-318-1547837614.jpg</file>
+    <file>b5571aea-1815-4abe-8537-e1b3c517327c.jpg</file>
+    <file>Capture.png</file>
+    <file>download-removebg-preview.png</file>
+    <file>../../Downloads/open-restaurant-logo_0-removebg-preview.png</file>
+  </qresource>
+</RCC>
